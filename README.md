@@ -7,13 +7,13 @@
 <img src="https://img.shields.io/github/languages/code-size/ShadowDumb/TiebaSignInBackup?color=blueviolet">
 </div>
 
-<!-- 原作者大概是：https://github.com/srcrs -->
-
 # 简介
 
 用的是手机端的接口，签到经验更多，用户只需要填写`BDUSS`即可，每日自动帮你签到，最多支持`200`个贴吧签到。
 
 这是一个克隆的仓库，克隆地址：[https://github.com/LuoSue/TiebaSignIn-1](https://github.com/LuoSue/TiebaSignIn-1)
+
+本仓库的最初版本已经删除，原作者我无法考证，但根据代码中的链接，猜测原作者是：https://github.com/srcrs
 
 # 功能
 
