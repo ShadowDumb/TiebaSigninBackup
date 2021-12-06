@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/languages/code-size/ShadowDumb/TiebaSignInBackup?color=blueviolet">
 </div>
 
-; 原作者大概是：https://github.com/srcrs
+<!-- 原作者大概是：https://github.com/srcrs -->
 
 # 简介
 
