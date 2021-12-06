@@ -1,17 +1,19 @@
 <div align="center"> 
 <h1 align="center">贴吧签到助手</h1>
-<img src="https://img.shields.io/github/issues/srcrs/TiebaSignIn?color=green">
-<img src="https://img.shields.io/github/stars/srcrs/TiebaSignIn?color=yellow">
-<img src="https://img.shields.io/github/forks/srcrs/TiebaSignIn?color=orange">
-<img src="https://img.shields.io/github/license/srcrs/TiebaSignIn?color=ff69b4">
-<img src="https://img.shields.io/github/languages/code-size/srcrs/TiebaSignIn?color=blueviolet">
+<img src="https://img.shields.io/github/issues/ShadowDumb/TiebaSignInBackup?color=green">
+<img src="https://img.shields.io/github/stars/ShadowDumb/TiebaSignInBackup?color=yellow">
+<img src="https://img.shields.io/github/forks/ShadowDumb/TiebaSignInBackup?color=orange">
+<img src="https://img.shields.io/github/license/ShadowDumb/TiebaSignInBackup?color=ff69b4">
+<img src="https://img.shields.io/github/languages/code-size/ShadowDumb/TiebaSignInBackup?color=blueviolet">
 </div>
+
+# 原作者大概是：https://github.com/srcrs
 
 # 简介
 
 用的是手机端的接口，签到经验更多，用户只需要填写`BDUSS`即可，每日自动帮你签到，最多支持`200`个贴吧签到。
 
-克隆的仓库，源地址：[https://github.com/LuoSue/TiebaSignIn-1](https://github.com/LuoSue/TiebaSignIn-1)
+这是一个克隆的仓库，克隆地址：[https://github.com/LuoSue/TiebaSignIn-1](https://github.com/LuoSue/TiebaSignIn-1)
 
 # 功能
 
