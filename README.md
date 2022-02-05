@@ -13,7 +13,7 @@
 
 这是一个克隆的仓库，克隆地址：[https://github.com/LuoSue/TiebaSignIn-1](https://github.com/LuoSue/TiebaSignIn-1)
 
-本仓库的最初版本已经删除，原作者我无法考证，但根据代码中的链接，猜测原作者是：https://github.com/srcrs
+本仓库的最初版本已经删除，原作者是：https://github.com/srcrs
 
 # 功能
 
