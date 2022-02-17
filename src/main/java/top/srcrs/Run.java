@@ -16,7 +16,7 @@ import top.srcrs.util.Encryption;
 import top.srcrs.util.Request;
 import java.util.*;
 
-/**
+/*
  * 这里是程序运行开始的地方
  * @author srcrs
  * @Time 2020-10-31
@@ -58,7 +58,7 @@ public class Run
         }
     }
 
-    /**
+    /*
      * 进行登录，获得 tbs ，签到的时候需要用到这个参数
      * @author srcrs
      * @Time 2020-10-31
