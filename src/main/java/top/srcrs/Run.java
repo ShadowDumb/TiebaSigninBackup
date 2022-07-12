@@ -26,7 +26,7 @@ public class Run
     /** 获取日志记录器对象 */
     private static final Logger LOGGER = LoggerFactory.getLogger(Run.class);
 
-    /** 获取用户所有关注贴吧 */
+    /** 获取用户关注的所有贴吧 */
     String LIKE_URL = "https://tieba.baidu.com/mo/q/newmoindex";
     /** 获取用户的tbs */
     String TBS_URL = "http://tieba.baidu.com/dc/common/tbs";
