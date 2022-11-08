@@ -110,7 +110,7 @@ public class Run
      * @Time 2020-10-31
      */
     public void runSign(){
-        // 当执行 5 轮所有贴吧还未签到成功就结束操作
+        // 当执行 5 轮，所有贴吧还未签到成功就结束操作
         Integer flag = 5;
         try{
             while(success.size()<followNum&&flag>0){
