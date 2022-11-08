@@ -28,12 +28,12 @@ public class Run
 
     /** 获取用户关注的所有贴吧 */
     String LIKE_URL = "https://tieba.baidu.com/mo/q/newmoindex";
-    /** 获取用户的tbs */
+    /** 获取用户的 tbs */
     String TBS_URL = "http://tieba.baidu.com/dc/common/tbs";
     /** 贴吧签到接口 */
     String SIGN_URL = "http://c.tieba.baidu.com/c/c/forum/sign";
 
-    /** 存储用户所关注的贴吧 */
+    /** 存储用户关注的所有贴吧 */
     private List<String> follow = new ArrayList<>();
     /** 签到成功的贴吧列表 */
     private static List<String>  success = new ArrayList<>();
